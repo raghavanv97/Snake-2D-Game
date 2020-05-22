@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{5D538ACB-E391-0685-20C6-C728A45C052B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Snake.cs">
+    <Files>
+      <File FileName="Assets/Snake.cs" Line="201" Column="86" />
+      <File FileName="Assets/GameAssest.cs" />
+      <File FileName="Assets/Scripts/SceneLoader.cs" Line="4" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Snack Game" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+              <Node name="Snake.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e277022f-0544-4fb3-b5ad-0faab68739ab" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
